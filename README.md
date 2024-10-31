@@ -1,3 +1,3 @@
-##I'm Tetee Kritin 👋
+**# I'm Tetee Kritin** 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeteeKritin)](https://github.com/TeteeKritin/github-readme-stats)
